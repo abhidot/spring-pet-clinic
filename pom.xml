@@ -46,7 +46,7 @@
 
     <scm>
         <url>https://github.com/abhidot/spring-pet-clinic</url>
-        <connection>scm:git:https://github.com/abhidot/spring-pet-clinic</connection>
+        <connection>scm:git:https://github.com/abhidot/spring-pet-clinic.git</connection>
   </scm>
 
 </project>
