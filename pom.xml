@@ -45,8 +45,8 @@
     </build>
 
     <scm>
-        <url>https://github.com/abhidot/spring-pet-clinic</url>
-        <connection>scm:git:https://github.com/abhidot/spring-pet-clinic.git</connection>
+        <developerConnection>scm:git:git@github.com:abhidot/spring-pet-clinic.git</developerConnection>
+      <tag>spring-pet-clinic-0.0.1</tag>
   </scm>
 
 </project>
