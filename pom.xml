@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.abhishek</groupId>
     <artifactId>spring-pet-clinic</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>spring-pet-clinic</name>
     <description>Demo project for Spring Boot</description>
     <properties>
@@ -45,8 +45,8 @@
     </build>
 
     <scm>
-        <url>https://github.com/abhidot/spring-pet-clinic</url>
-        <connection>scm:git:https://github.com/abhidot/spring-pet-clinic.git</connection>
-    </scm>
+      <developerConnection>scm:git:git@github.com:abhidot/spring-pet-clinic.git</developerConnection>
+    <tag>spring-pet-clinic-0.0.2</tag>
+  </scm>
 
 </project>
